@@ -1,0 +1,116 @@
+{
+    "name": "Aizirek",
+    "headerTaglineOne": "Hello 👋",
+    "headerTaglineTwo": "I'm Aizirek - curious",
+    "headerTaglineThree": "software engineer",
+    "headerTaglineFour": " based in Daejeon, South Korea.",
+    "showCursor": true,
+    "showBlog": true,
+    "darkMode": true,
+    "showResume": true,
+    "socials": [
+        {
+            "id": "1",
+            "title": "Github",
+            "link": "https://github.com/aizmary"
+        },
+        {
+            "id": "2",
+            "title": "LinkedIn",
+            "link": "https://www.linkedin.com/in/aizirekturdubaeva/"
+        },
+        {
+            "id": "3",
+            "title": "Email",
+            "link": "mailto:aizturdubaeva18@kaist.ac.kr"
+        }
+    ],
+    "projects": [
+        {
+            "id": "1",
+            "title": "Data Dynamics - Glitch Hackathon",
+            "description": "Data Analytics tool on zkBNB for the Glitch Hackathon",
+            "imageSrc": "https://pbs.twimg.com/profile_images/1621051604475740163/eOUXo-1Y_400x400.png",
+            "url": "https://github.com/aizmary/DataDynamics-Glitch"
+        },
+        {
+            "id": "2",
+            "title": "Grid Explorer",
+            "description": "Grid Explorer - Intelligent Robot Design and Programming (CS270) at KAIST. This project aims to implement the Grid Explorer, an intelligent robot designed to detect obstacles and red regions on a 4x6 map.",
+            "imageSrc": "https://www.lego.com/cdn/cs/set/assets/blt44a6a59b743231cd/Mindstroms-Build_Bot-EV3MEG-Sidekick-Standard.jpg?fit=crop&format=jpg&quality=80&width=800&height=600&dpr=1",
+            "url": "https://github.com/aizmary/cs270_grid-explorer"
+        },
+        {
+            "id": "3",
+            "title": "Game 2048",
+            "description": "Game 2048 is a single-player sliding tile puzzle video game implemented in Java",
+            "imageSrc": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/2048_logo.svg/1200px-2048_logo.svg.png",
+            "url": "https://github.com/aizmary/Game2048"
+        }
+    ],
+    "services": [
+        {
+            "id": "1",
+            "title": "Art Direction",
+            "description": "We help with the creation and development of online advertising ideas, with particular focus on their visual appearance."
+        },
+        {
+            "id": "2",
+            "title": "Branding",
+            "description": "We design key brand elements such as the logo, color scheme, typography, and other design components that makes your brand stand out from competitors."
+        },
+        {
+            "id": "3",
+            "title": "Web Design",
+            "description": "We build and optimize your online presence.  Website is the digital entry point into your business and a powerful revenue channel."
+        },
+        {
+            "id": "4",
+            "title": "3D Design",
+            "description": "We combine creative design and technical skills to build striking 3D visualisations that bring your project to life."
+        }
+    ],
+    "aboutpara": "As a dedicated software engineer and student at KAIST, I am thrilled to share my passion for technology and my commitment to excellence. With a strong foundation in computer science and a genuine love for software development, I am eager to contribute my skills and knowledge to make a significant impact in the industry and academia.",
+    "resume": {
+        "tagline": "👋  I'm a software engineer, product designer.",
+        "description": "I have delivered world-class user experiences to millions of people. Well-versed with React, Javascript, and most of the Web frameworks.",
+        "experiences": [
+            {
+                "id": "1",
+                "dates": "March 2022 - Present",
+                "type": "Full Time",
+                "position": "Project Manage at Global Social-Project <<Growth Hungry>>",
+                "bullets": "Assisted Google senior engineer to launch a project on tech-career coaching, supervised the organizational team, and facilitated team-buildings., Bullet Two"
+            },
+            {
+                "id": "d495c23b-4f65-479a-9b8a-cfbc1c089725",
+                "dates": "July 2020 - March 2022",
+                "type": "Full Time",
+                "position": "Digital Content Creator at X",
+                "bullets": "Worked on the frontend of a React application, Worked on the frontend of a React application"
+            }
+        ],
+        "education": {
+            "universityName": "KAIST (Korea Advanced Institute of Science and Technology)",
+            "universityDate": "2021-2025",
+            "universityPara": "Bachelor of Science in Computer Science and Business Technology Management"
+        },
+        "languages": [
+            "Javascript",
+            "HTML5",
+            "CSS",
+            "Python",
+            "Go"
+        ],
+        "frameworks": [
+            "React",
+            "Typescript",
+            "NodeJs"
+        ],
+        "others": [
+            "Figma",
+            "AdobeXD",
+            "AWS"
+        ]
+    }
+}
